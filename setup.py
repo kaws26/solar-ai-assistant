@@ -12,12 +12,12 @@ setup(
         "opencv-python",
         "numpy"
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Kawaljeet Singh",
+    author_email="kawaljeetsingh0026@gmail.com",
     description="An AI-powered rooftop solar analysis system using satellite imagery and LLM-powered insights.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/solar-ai-assistant",
+    url="https://github.com/kaws26/solar-ai-assistant.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

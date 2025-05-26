@@ -33,7 +33,7 @@ graph TD
 ## Installation Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/solar-ai-assistant.git
+   git clone https://github.com/kaws26/solar-ai-assistant.git
    cd solar-ai-assistant
    ```
 
@@ -81,9 +81,9 @@ graph TD
 - GIS data integration
 
 ## Support & Contact
-- **Maintainer**: [Your Name]
-- **Repository**: [GitHub Link](https://github.com/your-username/solar-ai-assistant)
-- **Issue Tracking**: [GitHub Issues](https://github.com/your-username/solar-ai-assistant/issues)
+- **Maintainer**: [Kawaljeet Singh]
+- **Repository**: [GitHub Link](https://github.com/kaws26/solar-ai-assistant.git)
+- **Issue Tracking**: [GitHub Issues](https://github.com/kaws26/solar-ai-assistant.git)
 - **License**: MIT
 
 **Last updated:** June 2025 
